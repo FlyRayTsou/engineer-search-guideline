@@ -23,7 +23,7 @@ I will continue to update and optimize this repository to read easily.
 - [Stack Overflow](https://stackoverflow.com/)
 
 
-## Mandarin(Tradisional)
+## Mandarin(Traditional)
 
 - [iT 邦幫忙](https://ithelp.ithome.com.tw/)
 - [ExplainThis](https://www.explainthis.io/)
@@ -32,6 +32,11 @@ I will continue to update and optimize this repository to read easily.
 
 ## English
 - System Design(Information Hub): https://github.com/Coder-World04/Complete-System-Design
+
+# Usefule Tools or website when develop
+
+- https://mockapi.io/
+- https://www.prisma.io/
 
 
 # For React.js, Next.js
