@@ -52,6 +52,8 @@ I will continue to update and optimize this repository to read easily.
 ## English
 
 - Exploring JavaScript(ES2024 Edition): https://exploringjs.com/js/index.html
+- Weak memoization in Javascript: https://dev.to/thekashey/weak-memoization-in-javascript-4po6
+
 
 # For Diagram as code
 
@@ -61,3 +63,16 @@ I will continue to update and optimize this repository to read easily.
 # For Career
 
 - Roadmap Source: https://www.linkedin.com/posts/alexandre-zajac_softwareengineering-programming-learning-activity-7217052517036093440-bnu8/
+
+
+# CDN
+## Mandarin(Traditional)
+- https://hogantechs.com/zh_tw/how-cdn-work-system-design-content-delivery-network/
+
+# Database
+## Mandarin(Traditional)
+- https://www.threads.net/@explainthis.io/post/C9Po_MTJcdZ/
+
+# Book
+## Mandarin(Traditional)
+- https://www.threads.net/@lynn_summerdays/post/C8UZXuPSwB2
