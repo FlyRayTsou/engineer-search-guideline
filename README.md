@@ -32,6 +32,8 @@ I will continue to update and optimize this repository to read easily.
 
 ## English
 - System Design(Information Hub): https://github.com/Coder-World04/Complete-System-Design
+- Exponent System Design Course: https://www.tryexponent.com/courses/system-design-interviews?ref=techinterviewhandbook
+- Coding Interview Plan: https://www.techinterviewhandbook.org/grind75
 
 # Usefule Tools or website when develop
 
@@ -43,3 +45,19 @@ I will continue to update and optimize this repository to read easily.
 
 - https://nextjs.org/learn/react-foundations
 - https://nextjs.org/learn/dashboard-app
+
+
+# For JavaScript
+
+## English
+
+- Exploring JavaScript(ES2024 Edition): https://exploringjs.com/js/index.html
+
+# For Diagram as code
+
+## English
+- ByteByteGo: https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7217766289941934080-211d/
+
+# For Career
+
+- Roadmap Source: https://www.linkedin.com/posts/alexandre-zajac_softwareengineering-programming-learning-activity-7217052517036093440-bnu8/
