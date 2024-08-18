@@ -15,6 +15,9 @@ I will continue to update and optimize this repository to read easily.
 
 - [はてなブックマーク](https://b.hatena.ne.jp/hotentry/it)
 
+# For software development
+## English
+- [The Twelve-Factor App](https://12factor.net/)
 
 # For wide-range technology information
 
